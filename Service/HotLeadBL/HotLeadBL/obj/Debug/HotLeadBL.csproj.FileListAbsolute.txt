@@ -1,0 +1,14 @@
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\ResolveAssemblyReference.cache
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadBL.dll
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadBL.pdb
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadInfo.dll
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadInfo.pdb
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\HotLeadBL.dll
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\HotLeadBL.pdb

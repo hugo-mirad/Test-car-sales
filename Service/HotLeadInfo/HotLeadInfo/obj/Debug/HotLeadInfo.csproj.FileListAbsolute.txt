@@ -1,0 +1,5 @@
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadInfo\HotLeadInfo\bin\Debug\HotLeadInfo.dll
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadInfo\HotLeadInfo\bin\Debug\HotLeadInfo.pdb
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadInfo\HotLeadInfo\obj\Debug\ResolveAssemblyReference.cache
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadInfo\HotLeadInfo\obj\Debug\HotLeadInfo.dll
+D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadInfo\HotLeadInfo\obj\Debug\HotLeadInfo.pdb

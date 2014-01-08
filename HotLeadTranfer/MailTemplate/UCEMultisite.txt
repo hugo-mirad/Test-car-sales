@@ -1,0 +1,333 @@
+<table width="100%" bgcolor="#dfdfdf" style="float: left; background-color: rgb(223,223,223);
+    font-family: Arial,'sans serif'">
+    <tbody>
+        <tr>
+            <td align="center">
+                <table cellspacing="0" cellpadding="0" border="0">
+                    <tbody>
+                        <tr>
+                            <td colspan="3">
+                                &nbsp;
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2" valign="top" height="359">
+                                <img alt="" src="http://smartz.unitedcarexchange.com/images/shadow-top-left.png">
+                            </td>
+                            <td rowspan="2">
+                                <table width="730" cellspacing="0" cellpadding="0" border="0">
+                                    <tbody>
+                                        <tr>
+                                            <td bgcolor="#2d2d2d" height="42" valign="middle">
+                                                <table width="100%" cellspacing="0" valign="middle" cellpadding="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td colspan="4" height="2">
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="12">
+                                                            </td>
+                                                            <td width="453" style="color: rgb(255,255,255); font-size: 12px; font-family: Arial,'sans serif'">
+                                                                Multi-Site Promotion Report for:&nbsp;<strong>2001 Dodge Ram 2500</strong>
+                                                            </td>
+                                                            <td width="243" align="right" style="font-size: 12px; color: rgb(255,197,190); padding-right: 10px">
+                                                                Cynthia Nusbaum (518-821-9009)
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td bgcolor="#c32c2c" height="6">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="239" style="background: url(http://smartz.unitedcarexchange.com/images/newsletter.jpg) center no-repeat">
+                                                <table cellpadding="0" cellspacing="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td height="156">
+                                                            </td>
+                                                            <td>
+                                                            </td>
+                                                        </tr>
+                                                        <tr>
+                                                            <td width="8">
+                                                            </td>
+                                                            <td height="30" style="text-shadow: rgb(102,102,102) 1px 1px; color: #fff; font-size: 14px;
+                                                                font-weight: bold; font-family: Arial,'sans serif'">
+                                                                <a href="http://unitedcarexchange.com/" target="_blank">
+                                                                    <div style="width: 214px; min-height: 68px; border: none; outline: none; position: relative;
+                                                                        top: -158px">
+                                                                    </div>
+                                                                </a>
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                                <table width="730" cellspacing="0" cellpadding="0" bgcolor="#ffffff">
+                                    <tbody>
+                                        <tr>
+                                            <td height="10">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="18">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table width="100%" cellspacing="0" cellpadding="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td width="30">
+                                                            </td>
+                                                            <td valign="top" style="color: rgb(51,51,51); font-size: 14px; line-height: 20px;
+                                                                font-family: Arial,'sans serif'">
+                                                                <h3 style="font-family: HelveticaNeueBold,HelveticaNeue-Bold,'Helvetica Neue Bold',helvetica,arial,'sans serif';
+                                                                    line-height: 25px; font-size: 22px; color: #CB3024; text-align: left; margin-bottom: 10px">
+                                                                    Listing Information</h3>
+                                                                <table border="0" cellspacing="1" cellpadding="0" style="margin: 0px; padding: 0px;
+                                                                    font-size: 12px; color: #232323; width: 438px; background: #ccc;">
+                                                                    <tbody>
+                                                                        <tr>
+                                                                            <td width="125" style="background: #fff; padding: 5px">
+                                                                                <strong>Customer Name</strong>
+                                                                            </td>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                Cynthia Nusbaum
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                <strong>Email Address</strong>
+                                                                            </td>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                kcpony911@sbcglobal.net
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                <strong>Phone</strong>
+                                                                            </td>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                518-821-9009
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                <strong>Package Type</strong>
+                                                                            </td>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                Premium Ad-Gold Delux
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                <strong>Car</strong>
+                                                                            </td>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                Dodge
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                <strong>Model</strong>
+                                                                            </td>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                Ram 2500
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                <strong>Year</strong>
+                                                                            </td>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                2001
+                                                                            </td>
+                                                                        </tr>
+                                                                        <tr>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                <strong>UCE Posting URL</strong>
+                                                                            </td>
+                                                                            <td style="background: #fff; padding: 5px">
+                                                                                <a href="http://unitedcarexchange.com/SearchCarDetails.aspx?Make=Dodge&amp;Model=Ram%202500%20Truck&amp;ZipCode=&amp;WithinZip=undefined&amp;C=PkdnKXaB2383"
+                                                                                    style="color: #CB3024" target="_blank">Click here</a>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                            <td width="30">
+                                                            </td>
+                                                            <td valign="top" style="width: 200px">
+                                                                <a href="http://unitedcarexchange.com/SearchCarDetails.aspx?Make=Dodge&amp;Model=Ram 2500 Truck&amp;ZipCode=&amp;WithinZip=undefined&amp;C=nwBDOLvO2383"
+                                                                    target="_blank">
+                                                                    <img border="0" alt="" src="http://unitedcarexchange.com/CarImages/2001/Dodge/Ram%202500%20Truck/2001_Dodge_Ram%202500%20Truck_2383Thumb.jpg"
+                                                                        width="200" style="margin-top: 4px"></a><br>
+                                                                <strong style="color: #CB3024; font-size: 12px">Report Date:&nbsp;<span style="color: rgb(51,51,51)">2012
+                                                                    Apr</span></strong>
+                                                            </td>
+                                                            <td width="30">
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="18">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td bgcolor="#eeeeee" height="1" style="border-top-width: 1px; border-top-style: dotted;
+                                                border-top-color: rgb(199,199,199)">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="18">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table width="100%" cellspacing="0" cellpadding="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td width="30">
+                                                            </td>
+                                                            <td valign="top" style="color: rgb(51,51,51); font-size: 14px; line-height: 20px;
+                                                                font-family: Arial,'sans serif'">
+                                                                <h3 style="font-family: HelveticaNeueBold,HelveticaNeue-Bold,'Helvetica Neue Bold',helvetica,arial,'sans serif';
+                                                                    line-height: 25px; font-size: 22px; color: #CB3024; text-align: left; margin-bottom: 10px">
+                                                                    Multi - Site Submitted URLS</h3>
+                                                                <table border="0" cellspacing="1" cellpadding="0" style="margin: 0px; padding: 0px;
+                                                                    font-size: 12px; width: 668px; color: rgb(18,18,18); overflow: hidden; background: #ccc;">
+                                                                    <tbody id="IDMultisiteTable">
+                                                                    </tbody>
+                                                                </table>
+                                                            </td>
+                                                            <td width="30">
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="18">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td bgcolor="#eeeeee" height="1" style="border-top-width: 1px; border-top-style: dotted;
+                                                border-top-color: rgb(199,199,199)">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="18">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td>
+                                                <table width="100%" cellspacing="0" cellpadding="0">
+                                                    <tbody>
+                                                        <tr>
+                                                            <td width="30">
+                                                            </td>
+                                                            <td valign="top" style="color: rgb(51,51,51); font-size: 14px; line-height: 20px;
+                                                                font-family: Arial,'sans serif'">
+                                                                <h1 style="font-family: HelveticaNeueBold,HelveticaNeue-Bold,'Helvetica Neue Bold',helvetica,arial,'sans serif';
+                                                                    color: rgb(32,31,31); font-size: 22px; line-height: 25px">
+                                                                    About UCE</h1>
+                                                                <p>
+                                                                    <span style="color: #CB3024">United Car Exchange</span>&nbsp;is the America's most
+                                                                    trusted Online Buy &amp; Sell used car agency.United Car Exchange helps in providing
+                                                                    an online platform where car buyers and sellers can search, buy, sell and come together
+                                                                    to talk about their Used/ New cars.</p>
+                                                            </td>
+                                                            <td width="30">
+                                                            </td>
+                                                        </tr>
+                                                    </tbody>
+                                                </table>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="18">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td bgcolor="#eeeeee" height="1" style="border-top-width: 1px; border-top-style: dotted;
+                                                border-top-color: rgb(199,199,199)">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="18">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td align="center" style="color: rgb(204,204,204); font-size: 12px; font-weight: bold;
+                                                font-family: Arial,'sans serif'">
+                                                <a href="http://unitedcarexchange.com/Default.aspx" style="color: rgb(127,127,127);
+                                                    text-decoration: none" target="_blank">Go to unitedcarexchange.com.com</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a
+                                                        href="http://unitedcarexchange.com/usedcars.aspx" style="color: rgb(127,127,127);
+                                                        text-decoration: none" target="_blank">Used Cars</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://unitedcarexchange.com/Packages.aspx"
+                                                            style="color: rgb(127,127,127); text-decoration: none" target="_blank">Sell A Car</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a
+                                                                href="http://unitedcarexchange.com/TermsandConditions.aspx" style="color: rgb(127,127,127);
+                                                                text-decoration: none" target="_blank">T&amp;C&nbsp;</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a
+                                                                    href="http://unitedcarexchange.com/ContactUs.aspx" style="color: rgb(127,127,127);
+                                                                    text-decoration: none" target="_blank">Contact Us</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td height="18">
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td bgcolor="#efefef" height="10">
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </td>
+                            <td colspan="2" valign="top">
+                                <img src="http://smartz.unitedcarexchange.com/images/shadow-top-right.png" alt=""
+                                    style="margin-top: 1px">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                &nbsp;
+                            </td>
+                            <td width="4" background="http://smartz.unitedcarexchange.com/images/shadow-left.png">
+                            </td>
+                            <td width="4" background="http://smartz.unitedcarexchange.com/images/shadow-right.png">
+                            </td>
+                            <td>
+                                &nbsp;
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                            </td>
+                            <td>
+                                <img src="http://smartz.unitedcarexchange.com/images/shadow-bottom.png" alt="">
+                            </td>
+                            <td colspan="2">
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td height="40">
+            </td>
+        </tr>
+    </tbody>
+</table>

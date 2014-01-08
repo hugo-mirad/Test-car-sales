@@ -1,0 +1,22 @@
+Dear Support,
+
+
+###Cusname### has requested for Dealer
+
+======================
+Contact information:
+
+Customer Name: ###Cusname###
+Phone Number : ###Phone###
+Email Address: ###Email###
+    
+
+======================
+
+Regards,
+Sales Team
+
+
+
+
+

@@ -1,0 +1,22 @@
+Dear Customer,
+
+you are successfully registered with UNITED CAR EXCHANGE
+
+======================
+Your login info is:
+
+User Name: ###UploadDate###
+Password: ###RecordCount###
+    
+
+======================
+
+Regards,
+Team Customer Service, 
+United Car Exchange, 
+Phone: 888-786-8307
+
+
+
+
+

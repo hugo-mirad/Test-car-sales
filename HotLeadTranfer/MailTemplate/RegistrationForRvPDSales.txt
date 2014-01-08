@@ -1,0 +1,28 @@
+
+Dear  ###UploadUser###,
+
+We would personally like to thank you for choosing United RV Exchange.
+We would just like to let you know that your profile is already listed on our website
+and we have included your personalized username and password to access your account.
+ 
+We do all the work for you, but we do ask for you to upload as many photographs of your
+vehicle as possible so that you may receive maximum exposure and interest.
+If you have any trouble accessing the website, or if you have any general questions or
+concerns you may reach our customer service department directly during regular business hours.
+
+We will update you often to let you see first hand the progress being made to ensure you sell
+your rv as fast as possible.
+You are in great hands, and just a few clicks away from getting a quick sale on your automobile!
+
+WWW.UNITEDRVEXCHANGE.COM
+USERNAME: ###UploadDate###
+PASSWORD: ###RecordCount###
+
+Special note: Your account is in preliminary status; Your account will be updated to paid status 
+subject to clearing of your payment on ###PDDate###. Your posting will go live as soon as your 
+account changes to paid status. Meanwhile we encourage you to login to your account, 
+edit your rv details and upload pictures
+
+Sincerely,
+The United RV Exchange Team
+1(888)786-8307

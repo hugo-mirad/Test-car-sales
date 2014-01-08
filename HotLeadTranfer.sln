@@ -1,0 +1,91 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HotLeadTranfer", "HotLeadTranfer", "{0FE3A84B-6FE6-4507-A887-3F18233E8ABA}"
+	ProjectSection(WebsiteProperties) = preProject
+		SccProjectName = ""$/HotLeadTranfer.root/HotLeadTranfer", CAAAAAAA"
+		SccAuxPath = ""
+		SccLocalPath = ".."
+		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/HotLeadTranfer"
+		Debug.AspNetCompiler.PhysicalPath = "F:\CarSalesNew\HotLeadTranfer\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\HotLeadTranfer\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/HotLeadTranfer"
+		Release.AspNetCompiler.PhysicalPath = "F:\CarSalesNew\HotLeadTranfer\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\HotLeadTranfer\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55433"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotLeadBL", "Service\HotLeadBL\HotLeadBL\HotLeadBL.csproj", "{EFA1B42B-15DD-4DB9-9442-E368B4C046F3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotLeadInfo", "Service\HotLeadInfo\HotLeadInfo\HotLeadInfo.csproj", "{DEDEB237-E27B-4D7B-8F88-74254FBD319D}"
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 4
+		SccLocalPath0 = .
+		SccWebProject1 = true
+		SccProjectUniqueName1 = HotLeadTranfer
+		SccLocalPath1 = .
+		SccProjectFilePathRelativizedFromConnection1 = HotLeadTranfer\\
+		SccProjectEnlistmentChoice1 = 2
+		SccProjectUniqueName2 = Service\\HotLeadBL\\HotLeadBL\\HotLeadBL.csproj
+		SccLocalPath2 = .
+		SccProjectFilePathRelativizedFromConnection2 = Service\\HotLeadBL\\HotLeadBL\\
+		SccProjectUniqueName3 = Service\\HotLeadInfo\\HotLeadInfo\\HotLeadInfo.csproj
+		SccLocalPath3 = .
+		SccProjectFilePathRelativizedFromConnection3 = Service\\HotLeadInfo\\HotLeadInfo\\
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FE3A84B-6FE6-4507-A887-3F18233E8ABA}.Debug|.NET.ActiveCfg = Debug|.NET
+		{0FE3A84B-6FE6-4507-A887-3F18233E8ABA}.Debug|.NET.Build.0 = Debug|.NET
+		{0FE3A84B-6FE6-4507-A887-3F18233E8ABA}.Debug|Any CPU.ActiveCfg = Debug|.NET
+		{0FE3A84B-6FE6-4507-A887-3F18233E8ABA}.Debug|Mixed Platforms.ActiveCfg = Debug|.NET
+		{0FE3A84B-6FE6-4507-A887-3F18233E8ABA}.Debug|Mixed Platforms.Build.0 = Debug|.NET
+		{0FE3A84B-6FE6-4507-A887-3F18233E8ABA}.Release|.NET.ActiveCfg = Debug|.NET
+		{0FE3A84B-6FE6-4507-A887-3F18233E8ABA}.Release|.NET.Build.0 = Debug|.NET
+		{0FE3A84B-6FE6-4507-A887-3F18233E8ABA}.Release|Any CPU.ActiveCfg = Debug|.NET
+		{0FE3A84B-6FE6-4507-A887-3F18233E8ABA}.Release|Mixed Platforms.ActiveCfg = Debug|.NET
+		{0FE3A84B-6FE6-4507-A887-3F18233E8ABA}.Release|Mixed Platforms.Build.0 = Debug|.NET
+		{EFA1B42B-15DD-4DB9-9442-E368B4C046F3}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{EFA1B42B-15DD-4DB9-9442-E368B4C046F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA1B42B-15DD-4DB9-9442-E368B4C046F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA1B42B-15DD-4DB9-9442-E368B4C046F3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{EFA1B42B-15DD-4DB9-9442-E368B4C046F3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{EFA1B42B-15DD-4DB9-9442-E368B4C046F3}.Release|.NET.ActiveCfg = Release|Any CPU
+		{EFA1B42B-15DD-4DB9-9442-E368B4C046F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA1B42B-15DD-4DB9-9442-E368B4C046F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFA1B42B-15DD-4DB9-9442-E368B4C046F3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{EFA1B42B-15DD-4DB9-9442-E368B4C046F3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{DEDEB237-E27B-4D7B-8F88-74254FBD319D}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{DEDEB237-E27B-4D7B-8F88-74254FBD319D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEDEB237-E27B-4D7B-8F88-74254FBD319D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEDEB237-E27B-4D7B-8F88-74254FBD319D}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{DEDEB237-E27B-4D7B-8F88-74254FBD319D}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{DEDEB237-E27B-4D7B-8F88-74254FBD319D}.Release|.NET.ActiveCfg = Release|Any CPU
+		{DEDEB237-E27B-4D7B-8F88-74254FBD319D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEDEB237-E27B-4D7B-8F88-74254FBD319D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEDEB237-E27B-4D7B-8F88-74254FBD319D}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{DEDEB237-E27B-4D7B-8F88-74254FBD319D}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
