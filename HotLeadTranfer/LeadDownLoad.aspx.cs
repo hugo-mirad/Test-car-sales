@@ -816,8 +816,8 @@ public partial class LeadDownLoad : System.Web.UI.Page
             }
         }
         Session["Type"] = "PDF";
-      
-      Response.Redirect("DownloadPageTest.aspx");
+
+        Response.Redirect("DownloadPage1Test.aspx");
       
 
    
