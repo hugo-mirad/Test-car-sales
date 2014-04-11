@@ -12,3 +12,31 @@ D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.
 D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadInfo.pdb
 D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\HotLeadBL.dll
 D:\VSS NEW SYSTEM\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\HotLeadBL.pdb
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadBL.dll
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadBL.pdb
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadInfo.dll
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.ExceptionHandling.dll
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Logging.dll
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.ObjectBuilder2.dll
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\Microsoft.Practices.Unity.dll
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadInfo.pdb
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\ResolveAssemblyReference.cache
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\HotLeadBL.dll
+D:\github\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\HotLeadBL.pdb
+C:\Users\hugo 999\Desktop\Car sales New\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadBL.dll
+C:\Users\hugo 999\Desktop\Car sales New\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadBL.pdb
+C:\Users\hugo 999\Desktop\Car sales New\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadInfo.dll
+C:\Users\hugo 999\Desktop\Car sales New\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadInfo.pdb
+C:\Users\hugo 999\Desktop\Car sales New\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\hugo 999\Desktop\Car sales New\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\HotLeadBL.dll
+C:\Users\hugo 999\Desktop\Car sales New\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\HotLeadBL.pdb
+C:\Users\padma\Desktop\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadBL.dll
+C:\Users\padma\Desktop\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadBL.pdb
+C:\Users\padma\Desktop\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadInfo.dll
+C:\Users\padma\Desktop\Car sales New\Service\HotLeadBL\HotLeadBL\bin\Debug\HotLeadInfo.pdb
+C:\Users\padma\Desktop\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\padma\Desktop\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\HotLeadBL.dll
+C:\Users\padma\Desktop\Car sales New\Service\HotLeadBL\HotLeadBL\obj\Debug\HotLeadBL.pdb

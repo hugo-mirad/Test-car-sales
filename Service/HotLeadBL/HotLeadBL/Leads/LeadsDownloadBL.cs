@@ -443,5 +443,53 @@ namespace HotLeadBL.Leads
             return ds;
 
         }
+
+
+        public DataSet LeadsPDFGetdata(DateTime dateStart, DateTime dateEnd,string states)
+        {
+            bool returnValue = false;
+
+            DataSet ds = new DataSet();
+
+            string spNameString = string.Empty;
+
+
+            //Connect to the database
+            Database dbDatabase = DatabaseFactory.CreateDatabase(Global.INSTANCE_NAME4);
+
+            spNameString = "[USP_LeadsPDFGetdata]";
+
+            DbCommand dbCommand = null;
+            try
+            {
+
+                //Assign stored procedure to the command object states
+                dbCommand = dbDatabase.GetStoredProcCommand(spNameString);
+                dbDatabase.AddInParameter(dbCommand, "@dateStart", DbType.String, dateStart);
+                dbDatabase.AddInParameter(dbCommand, "@dateEnd", DbType.String, dateEnd);
+                dbDatabase.AddInParameter(dbCommand, "@state", DbType.String, states);
+
+
+                //Executing stored procedure
+                ds = dbDatabase.ExecuteDataSet(dbCommand);
+
+
+            }
+
+            catch (Exception ex)
+            {
+                bool rethrow = ExceptionPolicy.HandleException(ex, Global.EXCEPTION_POLICY);
+
+                if (rethrow)
+                    throw;
+            }
+            finally
+            {
+                dbDatabase = null;
+            }
+            return ds;
+
+
+        }
     }
 }

@@ -3,10 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # Visual Studio 2008
 Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HotLeadTranfer", "HotLeadTranfer", "{0FE3A84B-6FE6-4507-A887-3F18233E8ABA}"
 	ProjectSection(WebsiteProperties) = preProject
-		SccProjectName = ""$/HotLeadTranfer.root/HotLeadTranfer", CAAAAAAA"
+		SccProjectName = ""
 		SccAuxPath = ""
-		SccLocalPath = ".."
-		SccProvider = "MSSCCI:Microsoft Visual SourceSafe"
+		SccLocalPath = ""
+		SccProvider = ""
 		TargetFramework = "3.5"
 		Debug.AspNetCompiler.VirtualPath = "/HotLeadTranfer"
 		Debug.AspNetCompiler.PhysicalPath = "F:\CarSalesNew\HotLeadTranfer\"
@@ -30,21 +30,6 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotLeadInfo", "Service\HotLeadInfo\HotLeadInfo\HotLeadInfo.csproj", "{DEDEB237-E27B-4D7B-8F88-74254FBD319D}"
 EndProject
 Global
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 4
-		SccLocalPath0 = .
-		SccWebProject1 = true
-		SccProjectUniqueName1 = HotLeadTranfer
-		SccLocalPath1 = .
-		SccProjectFilePathRelativizedFromConnection1 = HotLeadTranfer\\
-		SccProjectEnlistmentChoice1 = 2
-		SccProjectUniqueName2 = Service\\HotLeadBL\\HotLeadBL\\HotLeadBL.csproj
-		SccLocalPath2 = .
-		SccProjectFilePathRelativizedFromConnection2 = Service\\HotLeadBL\\HotLeadBL\\
-		SccProjectUniqueName3 = Service\\HotLeadInfo\\HotLeadInfo\\HotLeadInfo.csproj
-		SccLocalPath3 = .
-		SccProjectFilePathRelativizedFromConnection3 = Service\\HotLeadInfo\\HotLeadInfo\\
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|.NET = Debug|.NET
 		Debug|Any CPU = Debug|Any CPU

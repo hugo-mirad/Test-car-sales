@@ -81,5 +81,47 @@ namespace HotLeadBL.Masters
             return ds;
 
         }
+
+
+        public DataSet GetStates()
+        {
+            bool returnValue = false;
+
+            DataSet ds = new DataSet();
+
+            string spNameString = string.Empty;
+
+
+            //Connect to the database
+            Database dbDatabase = DatabaseFactory.CreateDatabase(Global.INSTANCE_NAME4);
+
+            spNameString = "[USP_GetSates]";
+
+            DbCommand dbCommand = null;
+            try
+            {
+
+                //Assign stored procedure to the command object
+                dbCommand = dbDatabase.GetStoredProcCommand(spNameString);
+
+                ds = dbDatabase.ExecuteDataSet(dbCommand);
+
+
+            }
+
+            catch (Exception ex)
+            {
+                bool rethrow = ExceptionPolicy.HandleException(ex, Global.EXCEPTION_POLICY);
+
+                if (rethrow)
+                    throw;
+            }
+            finally
+            {
+                dbDatabase = null;
+            }
+            return ds;
+
+        }
     }
 }

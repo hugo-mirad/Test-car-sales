@@ -201,6 +201,106 @@ function checkAll(cb)
         }
 
 
+  function Validate1() {
+            var valid = true;
+            var today = new Date();
+            var month = today.getMonth() + 1
+            var day = today.getDate()
+            var year = today.getFullYear()
+            today = month + "/" + day + "/" + year
+            var today = new Date(today);
+            var SDate = document.getElementById('txtStartDate').value;
+            var EDate = document.getElementById('txtEndDate').value;
+            var endDate = new Date(EDate);
+            var startDate = new Date(SDate);
+            var Startmonth = startDate.getMonth() + 1
+            var Startday = startDate.getDate()
+            var Startyear = startDate.getFullYear()
+            startDate = Startmonth + "/" + Startday + "/" + Startyear
+            var startDate = new Date(startDate);
+
+            var Endmonth = endDate.getMonth() + 1
+            var Endday = endDate.getDate()
+            var Endyear = endDate.getFullYear()
+            var oneDay = 24 * 60 * 60 * 1000;
+
+            endDate = Endmonth + "/" + Endday + "/" + Endyear
+
+            var endDate = new Date(endDate);
+
+            var ValidOldData = Math.abs((startDate.getTime() - today.getTime()) / (oneDay));
+            var ValidDates = Math.abs((startDate.getTime() - endDate.getTime()) / (oneDay));
+            
+          
+             if(document.getElementById('ddlVehicleType').value =="0")
+            {
+                alert("Select a Vehicle Category"); 
+                valid=false;
+                document.getElementById('ddlVehicleType').focus();  
+                return valid;               
+            }    
+            if (SDate == '') {
+                alert("Please enter start date");
+
+                valid = false;
+                return valid;
+            }
+            if (EDate == '') {
+
+                alert("Please enter end date");
+                valid = false;
+                return valid;
+            }
+            var dtFromDt = document.getElementById('txtStartDate').value;
+            if (isDate(dtFromDt) == false) {
+                document.getElementById('txtStartDate').focus();
+                valid = false;
+                return valid;
+            }
+
+            var dtTodt = document.getElementById('txtEndDate').value;
+            if (isDate(dtTodt) == false) {
+                document.getElementById('txtEndDate').focus();
+                valid = false;
+                return valid;
+            }                   
+            
+            if (SDate != '' && EDate != '' && startDate > endDate) {
+                alert("Start date is greater than end date");
+                valid = false;
+                return valid;
+            }
+            if (startDate > today) {
+                alert("Start date should not be greater Than current date");
+                valid = false;
+                return valid;
+            }
+            if (endDate > today) {
+
+                alert("End date should not be greater than current date");
+                valid = false;
+                return valid;
+            }
+            if (ValidOldData >= 365) {
+                alert("Report can be generated for maximum of one year prior. Please change the dates and resubmit again");
+                document.getElementById('txtStartDate').focus();
+                valid = false;
+                return valid;
+            }
+            
+              if(document.getElementById('ddlstates').value =="Select")
+              {
+             
+                alert('Please select state'); 
+                valid=false;
+                //document.getElementById('ddlstates').focus();  
+                return valid;    
+                }
+            
+            return valid;
+        }
+
+
         var dtCh = "/";
         var Chktoday = new Date();
         var minYear = Chktoday.getFullYear() - 1;
@@ -291,19 +391,23 @@ function checkAll(cb)
     <form id="form1" runat="server">
     <cc1:ToolkitScriptManager ID="SM" runat="server" EnablePageMethods="true">
     </cc1:ToolkitScriptManager>
-    <asp:UpdateProgress ID="UpdateProgress1" runat="server" AssociatedUpdatePanelID="updtpnlData"
-        DisplayAfter="0">
-        <ProgressTemplate>
-            <div id="spinner">
-                <h4>
-                    <div>
-                        Processing
-                        <img src="images/loading.gif" />
-                    </div>
-                </h4>
-            </div>
-        </ProgressTemplate>
-    </asp:UpdateProgress>
+    <div id="divck" runat="server" visible="false">
+        <asp:UpdateProgress ID="UpdateProgress1" runat="server" AssociatedUpdatePanelID="updtpnlData"
+            DisplayAfter="0">
+            <ProgressTemplate>
+                <div id="spinner">
+                    <h4>
+                        <div>
+                            Processing
+                            <img src="images/loading.gif" />
+                        </div>
+                        <h4>
+                        </h4>
+                    </h4>
+                </div>
+            </ProgressTemplate>
+        </asp:UpdateProgress>
+    </div>
     <div class="headder">
         <table style="width: 100%">
             <td style="width: 380px;">
@@ -331,8 +435,8 @@ function checkAll(cb)
                                         <asp:LinkButton ID="lnkbtnQCReport" runat="server" Text="QC Report" PostBackUrl="~/QCReport.aspx"></asp:LinkButton>
                                     </li>
                                     <li>
-                                <asp:LinkButton ID="lnkbtnBulkReport" runat="server" Text="Bulk Process" PostBackUrl="~/BulkProcess.aspx"></asp:LinkButton>
-                                </li>
+                                        <asp:LinkButton ID="lnkbtnBulkReport" runat="server" Text="Bulk Process" PostBackUrl="~/BulkProcess.aspx"></asp:LinkButton>
+                                    </li>
                                     <li>
                                         <asp:LinkButton ID="lnkbtnAllCentersReport" runat="server" Text="Centers report"
                                             PostBackUrl="~/AllCentersReport.aspx"></asp:LinkButton>
@@ -368,12 +472,12 @@ function checkAll(cb)
     <div style="height: 10px;">
     </div>
     <div class="main">
-        <table style="width: 720px;">
+        <table style="width: 830px;">
             <tr>
                 <td style="vertical-align: top;">
                     <asp:UpdatePanel ID="updtpnldata" runat="server">
                         <ContentTemplate>
-                            <table style="width: 100%;" cellpadding="0" cellspacing="0">
+                            <table style="width: 100%;" cellpadding="0"  cellspacing="0">
                                 <tr>
                                     <td>
                                         <asp:Label ID="lblCenterCode" runat="server" Font-Bold="true"></asp:Label>
@@ -383,7 +487,7 @@ function checkAll(cb)
                                     <td>
                                         <table>
                                             <tr>
-                                                <td style="width: 100px;">
+                                                <td style="width: 200px;">
                                                     Vehicle category<br />
                                                     <asp:DropDownList ID="ddlVehicleType" runat="server" AppendDataBoundItems="true">
                                                         <asp:ListItem Text="Cars" Value="1"></asp:ListItem>
@@ -438,9 +542,33 @@ function checkAll(cb)
                                                     </table>
                                                 </td>
                                                 <td>
+                                                    State<br />
+                                                    <asp:UpdatePanel ID="u2" runat="server">
+                                                        <ContentTemplate>
+                                                            <asp:DropDownList ID="ddlstates" runat="server">
+                                                            </asp:DropDownList>
+                                                        </ContentTemplate>
+                                                    </asp:UpdatePanel>
+                                                </td>
+                                                <td>
                                                     <br />
                                                     <asp:Button runat="server" ID="btnGet" Text="Get" class="g-button g-button-submit"
                                                         OnClientClick="return Validate();" OnClick="btnGet_Click" />
+                                                </td>
+                                                <td>
+                                                    <br />
+                                                    <asp:Button runat="server" ID="btnpdf" Text="PDF" class="g-button g-button-submit"
+                                                        OnClientClick="return Validate1();" OnClick="btnpdf_Click" />
+                                                </td>
+                                                <td>
+                                                    <br />
+                                                    <asp:Button runat="server" ID="btnexcel" Text="Excel" class="g-button g-button-submit"
+                                                        OnClientClick="return Validate();" OnClick="btnexcel_Click" />
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <asp:Label ID="lblcek" runat="server" Text="" Visible="false"></asp:Label>
                                                 </td>
                                             </tr>
                                         </table>
@@ -631,7 +759,6 @@ function checkAll(cb)
                 <asp:Button ID="btnOk" class="btn" runat="server" Text="Ok" />
             </div>
         </div>
-
     </form>
 </body>
 </html>
